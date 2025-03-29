@@ -1,0 +1,26 @@
+# Android/IntelliJ related
+.idea/
+*.iml
+*.hprof
+
+# Gradle
+.gradle/
+/build/
+/app/build/
+/captures/
+
+# Local properties (contains SDK path)
+local.properties
+
+# Log files
+*.log
+
+# Node modules (if using React Native or Node.js in the project)
+node_modules/
+
+# Keystore files (security reasons)
+*.keystore
+
+# Miscellaneous
+*.swp
+*.swo
